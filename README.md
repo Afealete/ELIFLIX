@@ -1,4 +1,4 @@
-# ELIFLIX - A Contewnt Based Movie Recommendation System
+# ELIFLIX - A Content Based Movie Recommendation System
 
 A powerful movie recommendation engine that uses content-based filtering with machine learning to suggest movies based on genres, keywords, cast, and directors.
 
@@ -387,4 +387,5 @@ For issues or questions, check the GitHub repository or documentation.
 **Last Updated**: February 2024  
 **Python Version**: 3.9+  
 **Status**: Production Ready
+
 
