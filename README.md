@@ -1,4 +1,4 @@
-# ELIFLIX - Netflix Clone with ML-Based Movie Recommendations
+# ELIFLIX - A Content Based Movie RecommendatioN System
 
 A powerful movie recommendation engine that uses content-based filtering with machine learning to suggest movies based on genres, keywords, cast, and directors.
 
